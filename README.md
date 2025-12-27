@@ -41,14 +41,24 @@ Focused on Data Science, AI-based applications
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taniya42&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=taniya42&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniya42&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=taniya42&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taniya42&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=taniya42&theme=dark&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
