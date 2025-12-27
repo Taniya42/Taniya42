@@ -24,10 +24,13 @@ Focused on Data Science, AI-based applications, and problem-solving through code
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taniya42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Taniya42&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Taniya42&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya42&layout=compact&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taniya42&icon=4&color=0)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=Taniya42&color=0)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
