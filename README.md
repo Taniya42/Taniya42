@@ -1,6 +1,6 @@
 <h1 align="center">I'm Taniya Upadhyay</h1>
 <h3 align="center">
-Focused on Data Science, AI-based applications, and problem-solving through code.
+Focused on Data Science, AI-based applications
 </h3>
 
 <p align="center">
