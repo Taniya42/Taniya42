@@ -51,5 +51,5 @@ Focused on Data Science, AI-based applications
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=taniya42&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=taniya42&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
