@@ -1,5 +1,14 @@
-# 💫 About Me:
-                                             I’m Taniya Upadhyay<br><br>                                       BCA (Data Science) student<br>Focused on Data Science, AI-based applications, and problem-solving through code.<br><br><br><br>I’m currently working on AI-based projects such as emotion detection systems, data analysis projects, and C programming applications<br><br>I’m currently learning Data Science, Machine Learning, HTML, CSS, and JavaScript<br><br>I’m interested in building practical, efficient, and scalable solutions<br><br>Ask me about C programming, data science fundamentals, AI projects, and web development
+<p align="center"> <strong>I’m Taniya Upadhyay</strong><br> BCA (Data Science) student </p>
+
+Focused on Data Science, AI-based applications, and problem-solving through code.
+
+🔭 I’m currently working on AI-based projects such as emotion detection systems, data analysis projects, and C programming applications.
+
+🌱 I’m currently learning Data Science, Machine Learning, HTML, CSS, and JavaScript.
+
+💡 I’m interested in building practical, efficient, and scalable solutions.
+
+💬 Ask me about C programming, data science fundamentals, AI projects, and web development.
 
 
 ## 🌐 Socials:
