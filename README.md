@@ -10,7 +10,6 @@ Focused on Data Science, AI-based applications
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taniya42&theme=darkhub&no-frame=true&row=1" />
 </p>
-
 ---
 
 - 🔭 I’m currently working on **AI-based projects such as emotion detection systems, data analysis projects, and C programming applications**
