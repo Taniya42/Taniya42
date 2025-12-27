@@ -3,7 +3,7 @@
 Focused on Data Science, AI-based applications
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=taniya42&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
@@ -13,7 +13,6 @@ Focused on Data Science, AI-based applications
 
 ---
 
-### 👩‍💻 About Me
 - 🔭 I’m currently working on **AI-based projects such as emotion detection systems, data analysis projects, and C programming applications**
 - 🌱 I’m currently learning **Data Science, Machine Learning, HTML, CSS, and JavaScript**
 - 💡 I’m interested in **building practical, efficient, and scalable solutions**
